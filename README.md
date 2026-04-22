@@ -5,7 +5,7 @@ This project demonstrates how to control a **Servo Motor** using a **Potentiomet
 
 By rotating the knob, the Arduino reads an analog value and maps it to a servo angle, allowing real-time manual control of the servo position.
 
-![Servo Knob Circuit](image.png)
+![Servo Knob Circuit](images/image.jpeg)
 
 ---
 
