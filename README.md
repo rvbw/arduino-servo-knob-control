@@ -15,7 +15,6 @@ By rotating the knob, the Arduino reads an analog value and maps it to a servo a
 - Potentiometer
 - Breadboard
 - Jumper Wires
-- USB Cable
 
 ---
 
